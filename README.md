@@ -1,6 +1,5 @@
 # SPOTIFY MUSIC PREFERENCE DATA ANALYSIS PROJECT
-### Project Overview: Spotify Data Analysis  
-
+### Project Objective
 In this project, I analyzed a Spotify dataset with 520 entries to uncover interesting insights into how people listen to music. The goal was to explore user preferences and behavior around music consumption.  
 The analysis explores key aspects of music consumption, including:
 1. **Gender Preferences**: How music listening habits differ between genders.  
@@ -26,6 +25,8 @@ The tool used for this data analysis and visualization is Power BI.
 ## Statement of problem
 This analysis aim to uncover insight and to address the following questions as I look into the world 
 of Spotify user generated data.
+## Dataset
+
 
 **1. Gender Demographics and Spotify Music Streaming:**
 Determine the distribution and composition of gender among Spotify users who 
@@ -45,3 +46,6 @@ and explore variations in music listening frequency across different occasions.
 
 **5. Most preferred listening content**
 Exemine unser behaviour to determine the most preferred listening content on spotify between music and podcast
+
+## Dashbaord
+
